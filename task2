@@ -1,0 +1,42 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Webpage</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <header>
+    <h1>WELCOME TO HTML</h1>
+  </header>
+
+  <nav>
+    <ul>
+      <li><b><a href="https://dribbble.com/tags/shopping-website">Home</a></b></li>
+      <li><b><a href="#">About</a></b></li>
+      <li><b><a href="#">Services</a></b></li>
+      <li><b><a href="#">Contact</a></b> </li>
+    </ul>
+  </nav>
+
+  <main>
+    <section>
+	<h1> food court </h1>
+      <p><b><button type="button"><a href="https://dribbble.com/tags/shopping-website">click here to enter</a></p></b>
+    </section>
+
+    <section>
+      <h2>menu</h2>
+	  <b>
+      <ul>
+        <li>statares</li>
+		<li>mocktailes</li>
+        <li>veg/non-veg</li>
+		<li>sea foods</li>
+      </ul>
+	  </b>
+    </section>
+  </main>
+</body>
+</html>

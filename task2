@@ -13,7 +13,7 @@
 
   <nav>
     <ul>
-      <li><b><a href="https://dribbble.com/tags/shopping-website">Home</a></b></li>
+      <li><b><a href="#">Home</a></b></li>
       <li><b><a href="#">About</a></b></li>
       <li><b><a href="#">Services</a></b></li>
       <li><b><a href="#">Contact</a></b> </li>
@@ -23,7 +23,7 @@
   <main>
     <section>
 	<h1> food court </h1>
-      <p><b><button type="button"><a href="https://dribbble.com/tags/shopping-website">click here to enter</a></p></b>
+      <p><b><button type="button"><a href="https://themeforest.net/category/site-templates?term=food%20court">click here to enter</a></p></b>
     </section>
 
     <section>
